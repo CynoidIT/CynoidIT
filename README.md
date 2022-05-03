@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/cynoidit" target="blank"><img src="https://img.shields.io/twitter/follow/cynoidit?logo=twitter&style=for-the-badge" alt="cynoidit" /></a> </p>
 
-- 🌱 I’m currently developing a deeper understanding of **JS**
+- 🌱 I’m currently working on developing a deeper understanding of **JS**
 
 - 👨‍💻 All of my projects are available at [cynoidsystems.com](cynoidsystems.com)
 
