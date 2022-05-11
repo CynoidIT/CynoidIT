@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Dayrl</h1>
+<h1 align="center">Dayrl @ Cynoid Systems & 100Devs</h1>
 <h3 align="center">I love finding unique and elegant solutions to problems</h3>
 
 <p align="left"> <a href="https://twitter.com/cynoidit" target="blank"><img src="https://img.shields.io/twitter/follow/cynoidit?logo=twitter&style=for-the-badge" alt="cynoidit" /></a> </p>
